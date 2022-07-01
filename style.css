@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+}
+
+
+#app {
+    background-color: rgb(118, 16, 220);
+}
+
+
+
+#myCarousel
+{
+    background-color: red;
+    border-color: rgb(235, 217, 18);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+    border-color: red;
+    background-color: black;
+}
+
+#chatbot {
+    background-color: coral;
+}
